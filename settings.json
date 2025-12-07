@@ -7,7 +7,7 @@
 
   "server": {
     "ip": "maninoy.aternos.me", 
-    "port": :39440,   
+    "port": 39440,   
     "version": "1.12.1"   
   },
   
